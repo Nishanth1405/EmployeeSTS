@@ -1,0 +1,77 @@
+{"properties": [
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.url'"
+  },
+  {
+    "name": "Spring.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.username'"
+  },
+  {
+    "name": "Spring.jba.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jba.hibernate.ddl-auto'"
+  }
+]}{
+    "name": "Spring.datasource.pasword",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.pasword'"
+  }
+]}{
+    "name": "Spring.jba.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jba.hibernate.ddl-auto'"
+  }
+]}{
+    "name": "Spring.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.password'"
+  }
+]}{
+    "name": "Spring.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.password'"
+  }
+]}{
+    "name": "Spring.jba.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jba.hibernate.ddl-auto'"
+  }
+]}{
+    "name": "Spring.jba.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jba.hibernate.ddl-auto'"
+  }
+]}{
+    "name": "Spring.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.password'"
+  }
+]}{
+    "name": "Spring.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.password'"
+  }
+]}{
+    "name": "Spring.jba.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jba.hibernate.ddl-auto'"
+  }
+]}{
+    "name": "Spring.jba.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jba.hibernate.ddl-auto'"
+  }
+]}{
+    "name": "Spring.jba.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jba.hibernate.ddl-auto'"
+  }
+]}
