@@ -21,29 +21,29 @@ public class EmployeeController {
 	@Autowired
 	EmployeeService es;
 
-	@PostMapping(value = "/postObject")
+	@PostMapping(value = "/postOb")
 
 	public String postObject(@RequestBody Employee e) {
 		return es.postObject(e);
 
 	}
 
-	@PostMapping(value = "/postList")
+	@PostMapping(value = "/postLi")
 	public String postList(@RequestBody List<Employee> e) {
 		return es.postList(e);
 	}
 
-	@GetMapping(value = "/getSingleObject/{a}")
+	@GetMapping(value = "/getSingleOb/{a}")
 	public Employee getSingleObject(@PathVariable int a) {
 		return es.getSingleObject(a);
 	}
 
-	@GetMapping(value = "/getAllObject")
+	@GetMapping(value = "/getAllOb")
 	public List<Employee> getAllObject() {
 		return es.getAllObject();
 	}
 
-	@PutMapping(value = "/updateObject/{n}")
+	@PutMapping(value = "/updateOb/{n}")
 	public String update(@PathVariable int n, @RequestBody Employee e) {
 		return es.update(n, e);
 	}
